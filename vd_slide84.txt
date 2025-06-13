@@ -1,0 +1,1 @@
+Kiểm tra xem nội dung của file văn bản có chứa xâu “Ky thuat May tinh” hay không? Yêu cầu dung lượng bộ nhớ cần sử dụng là ít nhất (Không đọc toàn bộ nội dung file)
